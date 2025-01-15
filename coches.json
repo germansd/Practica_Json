@@ -1,0 +1,59 @@
+{
+    "coches": [
+      {
+        "marca": "BMW",
+        "modelo": "320 CD COUPE",
+        "kilometros": "196,210 km",
+        "año": "Enero 2008",
+        "precio": 8901,
+        "motor": "Diésel",
+        "imagen": "img/bmw.jpg"
+      },
+      {
+        "marca": "Subaru",
+        "modelo": "Impreza WRX",
+        "kilometros": "145,000 km",
+        "año": "Marzo 2010",
+        "precio": 12500,
+        "motor": "Gasolina",
+        "imagen": "img/subaru.jpg"
+      },
+      {
+        "marca": "Fiat",
+        "modelo": "Punto Evo",
+        "kilometros": "120,500 km",
+        "año": "Julio 2012",
+        "precio": 7500,
+        "motor": "Diésel",
+        "imagen": "img/fiat.jpg"
+      },
+      {
+        "marca": "Golf",
+        "modelo": "GTI",
+        "kilometros": "85,300 km",
+        "año": "Mayo 2015",
+        "precio": 14500,
+        "motor": "Gasolina",
+        "imagen": "img/golf.jpg"
+      },
+      {
+        "marca": "Opel",
+        "modelo": "Astra",
+        "kilometros": "190,000 km",
+        "año": "Septiembre 2007",
+        "precio": 5800,
+        "motor": "Diésel",
+        "imagen": "img/opel.jpg"
+      },
+      {
+        "marca": "Peugeot",
+        "modelo": "308",
+        "kilometros": "110,000 km",
+        "año": "Noviembre 2014",
+        "precio": 9900,
+        "motor": "Diésel",
+        "imagen": "img/peugeot.jpg"
+      }
+    ]
+  }
+  
